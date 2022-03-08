@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Ayush",
+      "lastname": "Bharti",
+      "email": "ayush.bharti@gmail.com"
+    },
+    {
+      "id": 2,
+      "firstname": "Rohit",
+      "lastname": "Roy",
+      "email": "royrohit@gmail.com"
+    },
+    {
+      "id": 3,
+      "firstname": "Shyam",
+      "lastname": "Bharti",
+      "email": "shyam.bharti@gmail.com"
+    },
+    {
+      "id": 4,
+      "firstname": "Shyam",
+      "lastname": "Bharti",
+      "email": "shyam.bharti@gmail.com"
+    },
+    {
+      "id": 5,
+      "firstname": "Shyam",
+      "lastname": "Bharti",
+      "email": "shyam.bharti@gmail.com"
+    },
+    {
+      "firstname": "Mrinmoy",
+      "lastname": "Halder",
+      "email": "halder.mrinmoy@gmail.com",
+      "id": 11
+    },
+    {
+      "firstname": "radhe",
+      "lastname": "Shy",
+      "email": "Sy@gmail.com",
+      "id": 12
+    },
+    {
+      "firstname": "radhe",
+      "lastname": "Shy",
+      "email": "Sy@gmail.com",
+      "id": 13
+    },
+    {
+      "firstname": "Manoj",
+      "lastname": "Kumar",
+      "email": "manoj.kr.d@gmail.com",
+      "id": 14
+    },
+    {
+      "firstname": "Manoj",
+      "lastname": "kr",
+      "email": "debuy@gmail.com",
+      "id": 15
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "id": 16
+    }
+  ]
+}
